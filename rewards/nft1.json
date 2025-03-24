@@ -1,0 +1,17 @@
+{
+    "name": "Carbon Credit NFT #1",
+    "description": "This NFT is awarded for reducing carbon emissions.",
+    "image": "https://via.placeholder.com/600",
+    "attributes": [
+      {
+        "trait_type": "Carbon Offset",
+        "value": "100kg CO2"
+      },
+      {
+        "trait_type": "Level",
+        "value": "Gold"
+      }
+    ]
+  }
+  
+  
